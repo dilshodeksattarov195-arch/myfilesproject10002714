@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "notifysalidate",
+        "uuid": 19038710,
+        "checksum": "cef13s"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "production"
+    }
+}
